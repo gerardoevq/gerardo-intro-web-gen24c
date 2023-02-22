@@ -1,6 +1,17 @@
-body {
-    color: aqua;
+body, input, button {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #202124;
 }
-h1 {
-    color: blue;
+a {padding: 5px;}
+
+.nav {
+    text-align: right;
+}
+img {
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
 }
